@@ -1,6 +1,6 @@
 # veershaivlingayat
 
-A new Flutter project.
+A clone of a matrimonial website into an android app using flutter, dart.
 
 ## Getting Started
 
